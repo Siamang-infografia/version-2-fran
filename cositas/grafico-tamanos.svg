@@ -6,16 +6,12 @@
 	.st0{fill:none;stroke:#95C11F;stroke-width:1.5977;stroke-miterlimit:10;}
 	.st1{fill:none;stroke:#95C11F;stroke-width:1.5977;stroke-miterlimit:10;stroke-dasharray:2.8193,2.8193;}
 	.st2{fill:#1E1E1C;}
-	.st3{font-family:"Roboto", sans-serif}
+	.st3{font-family:'Roboto-Black';}
 	.st4{font-size:19.6319px;}
-	.st5{font-family:"Roboto", sans-serif}
-	.st6{fill:#95C11F;}s
+	.st5{opacity:0;}
+	.st6{fill:#95C11F;}
 	.st7{fill:#006633;}
-	.st8{fill:#1E1E1C;}
-	#alturas{
-	opacity:0; transition:all ease 0.25s
-	}
-	svg:hover #alturas{opacity:1; transition:all ease 0.25s}
+	.st8{fill:#DEDDDD;}
 </style>
 <g id="lineas">
 	<line class="st0" x1="94.2" y1="290.4" x2="766.8" y2="290.4"/>
@@ -37,24 +33,24 @@
 		<text transform="matrix(1 0 0 1 38.0772 149.5558)" class="st2 st3 st4">100 cm</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 391.6162 314.8635)" class="st2 st5 st4">Hoolock</text>
+		<text transform="matrix(1 0 0 1 391.6162 314.8635)" class="st2 st3 st4">Hoolock</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 253.4428 314.8635)" class="st2 st5 st4">Siamang</text>
+		<text transform="matrix(1 0 0 1 253.4428 314.8635)" class="st2 st3 st4">Siamang</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 115.7628 314.8635)" class="st2 st5 st4">Hombre</text>
+		<text transform="matrix(1 0 0 1 115.7628 314.8635)" class="st2 st3 st4">Hombre</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 521.408 314.8635)" class="st2 st5 st4">Hylobates</text>
+		<text transform="matrix(1 0 0 1 521.408 314.8635)" class="st2 st3 st4">Hylobates</text>
 	</g>
 	<g>
-		<text transform="matrix(1 0 0 1 652.9 314.8635)" class="st2 st5 st4">Nomascus</text>
+		<text transform="matrix(1 0 0 1 652.9 314.8635)" class="st2 st3 st4">Nomascus</text>
 	</g>
 </g>
 <g id="Capa_4">
 </g>
-<g id="alturas">
+<g id="alturas" class="st5">
 	<g>
 		<text transform="matrix(1 0 0 1 271.9889 140.6193)" class="st2 st3 st4">90 cm</text>
 	</g>
